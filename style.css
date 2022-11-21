@@ -1,0 +1,27 @@
+
+ body{
+    background-image: url(./3.jpg);
+    background-size: cover;
+    position: flex;
+}
+.responsive{
+    width:100%;
+    height:auto;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.zomato{
+  padding-left: 2%;
+  height: 6rem;
+  width:8rem;
+  
+}
+.swiggy{
+  height: 6rem;
+  width:7rem;
+ 
+    }
